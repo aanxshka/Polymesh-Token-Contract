@@ -1,0 +1,1 @@
+{"rustc":4013192585442940105,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[3623678084244227969,"build_script_build",false,214931230825294190]],"local":[{"RerunIfChanged":{"output":"release/build/linkme-impl-e8ac4c5d6f682e4a/output","paths":["build.rs"]}}],"rustflags":["--cap-lints=allow","-Clink-dead-code"],"metadata":0,"config":0,"compile_kind":0}

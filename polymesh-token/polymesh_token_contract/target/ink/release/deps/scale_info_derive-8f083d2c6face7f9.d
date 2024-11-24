@@ -1,0 +1,8 @@
+/Users/anushka/Desktop/Genesis Block/Polymesh-Token-Contract/polymesh-token/polymesh_token_contract/target/ink/release/deps/libscale_info_derive-8f083d2c6face7f9.dylib: /Users/anushka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.6/src/lib.rs /Users/anushka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.6/src/attr.rs /Users/anushka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.6/src/trait_bounds.rs /Users/anushka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.6/src/utils.rs
+
+/Users/anushka/Desktop/Genesis Block/Polymesh-Token-Contract/polymesh-token/polymesh_token_contract/target/ink/release/deps/scale_info_derive-8f083d2c6face7f9.d: /Users/anushka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.6/src/lib.rs /Users/anushka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.6/src/attr.rs /Users/anushka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.6/src/trait_bounds.rs /Users/anushka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.6/src/utils.rs
+
+/Users/anushka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.6/src/lib.rs:
+/Users/anushka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.6/src/attr.rs:
+/Users/anushka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.6/src/trait_bounds.rs:
+/Users/anushka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.6/src/utils.rs:

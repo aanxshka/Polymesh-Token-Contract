@@ -1,0 +1,1 @@
+/Users/anushka/Desktop/Genesis\ Block/Polymesh-Token-Contract/polymesh-token/polymesh_token_contract/target/ink/release/metadata-gen: /Users/anushka/Desktop/Genesis\ Block/Polymesh-Token-Contract/polymesh-token/polymesh_token_contract/lib.rs /private/var/folders/b6/_k2nk9nd5cd0758yrdg5jm7r0000gn/T/cargo-contract_tNxoqO/.ink/metadata_gen/main.rs
